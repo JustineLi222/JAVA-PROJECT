@@ -1,2 +1,2 @@
 # JAVA PROJECT
- csci1130 project
+ csci1130 or java project
