@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @justine222
+ * @justineLi222
  */
 //this is a simple calculator that operate simple operations.
 public class Calculator {
